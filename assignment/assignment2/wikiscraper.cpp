@@ -79,7 +79,6 @@ unordered_set<string> findWikiLinks(const string &inp) {
 
 		string link;
 		link = inp.substr(url_start - inp.begin(), url_end - url_start);
-		// cout << "========:  " << valid_wikilink("asdf") << valid_wikilink("44444") << valid_wikilink("adsf##") << endl;
 		// cout << "========:  " << link << endl;
 		///////////////////////////////////////////////////////////////////////////////////////////////////
 

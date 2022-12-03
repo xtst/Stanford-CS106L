@@ -10,6 +10,6 @@ http://web.stanford.edu/class/cs106l/
 from: https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA
 ### slides2: 2020 fall  
 from: https://github.com/PKUFlyingPig/CS106L
-### assignments: 2019 fall
-from: https://github.com/snme/cs106L-assignment1
-from: https://github.com/snme/cs106L-assignment2
+
+# Attention
+CS106L in 2022 fall is not recommended. The wikiscraper in assignment 2 can't work. Also, the description of assignment 3 is not clear.
